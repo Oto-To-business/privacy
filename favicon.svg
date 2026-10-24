@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Oto-to">
+  <!-- The Oto-to mark, "Arrival" (same drawing as the app icons): on an ink tile, the O of
+       Oto-to as a white route open at the top right, where a teal dot, the ride, is arriving. -->
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#23262B"/>
+      <stop offset="1" stop-color="#111315"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="230.4" fill="url(#tile)"/>
+  <path d="M519.7 266.1A246 246 0 1 0 756.9 488.8" fill="none" stroke="#fff" stroke-width="100" stroke-linecap="round"/>
+  <circle cx="680.4" cy="332.7" r="98" fill="#2FB6A6" fill-opacity=".2"/>
+  <circle cx="680.4" cy="332.7" r="70" fill="#2FB6A6"/>
+</svg>
